@@ -1,0 +1,13 @@
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.csprojAssemblyReference.cache
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.AssemblyInfo.cs
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.exe
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.deps.json
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.runtimeconfig.json
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.runtimeconfig.dev.json
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.dll
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\bin\Debug\netcoreapp3.1\SubnetConsoleDemo.pdb
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.dll
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.pdb
+C:\Users\Juston\source\repos\SubnetConsoleDemo\SubnetConsoleDemo\obj\Debug\netcoreapp3.1\SubnetConsoleDemo.genruntimeconfig.cache
