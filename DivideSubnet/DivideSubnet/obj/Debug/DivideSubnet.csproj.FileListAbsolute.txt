@@ -1,0 +1,15 @@
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\bin\Debug\DivideSubnet.exe.config
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\bin\Debug\DivideSubnet.exe
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\bin\Debug\DivideSubnet.pdb
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.csprojAssemblyReference.cache
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\MainWindow.g.cs
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\App.g.cs
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet_MarkupCompile.cache
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet_MarkupCompile.lref
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\MainWindow.baml
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.g.resources
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.Properties.Resources.resources
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.csproj.GenerateResource.cache
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.csproj.CoreCompileInputs.cache
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.exe
+C:\Users\Juston\source\repos\DivideSubnet\DivideSubnet\obj\Debug\DivideSubnet.pdb

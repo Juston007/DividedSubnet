@@ -1,0 +1,38 @@
+﻿<Window x:Class="DivideSubnet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DivideSubnet"
+        mc:Ignorable="d"
+        Title="子网划分工具" Height="700" Width="650" Icon="Image/ICON.jpg">
+    <Grid Background="#FF99CC99" Margin="0,0,-0.8,-0.6">
+        <Label Content="子网划分" HorizontalAlignment="Left" Margin="254,20,0,0" VerticalAlignment="Top" FontSize="36">
+            <Label.Foreground>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}"/>
+            </Label.Foreground>
+        </Label>
+
+        <GroupBox Header="输入要划分的IP地址" HorizontalAlignment="Left" Height="69" Margin="89,83,0,0" VerticalAlignment="Top" Width="466" FontSize="18">
+            <GroupBox.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.InactiveCaptionColorKey}}"/>
+            </GroupBox.Background>
+            <TextBox x:Name="txtIP" HorizontalAlignment="Left" Height="28" Margin="113,10,0,0" TextWrapping="Wrap" Text="192.168.12.1" VerticalAlignment="Top" Width="233" FontSize="20"/>
+
+        </GroupBox>
+        <GroupBox Header="前缀" HorizontalAlignment="Left" Height="69" Margin="89,167,0,0" VerticalAlignment="Top" Width="466" FontSize="18">
+            <GroupBox.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.InactiveCaptionColorKey}}"/>
+            </GroupBox.Background>
+            <TextBox x:Name="txtPrefix" HorizontalAlignment="Left" Height="28" Margin="113,10,0,0" TextWrapping="Wrap" Text="25" VerticalAlignment="Top" Width="233" FontSize="20"/>
+
+        </GroupBox>
+        <Button x:Name="btnCalculateSubnet" Content="计算子网" HorizontalAlignment="Left" Margin="264,253,0,0" VerticalAlignment="Top" Width="124" Height="38" FontSize="20" Click="btnCalculateSubnet_Click"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="272" Margin="20,307,0,0" VerticalAlignment="Top" Width="606"/>
+        <Label Content="齐鲁师范学院 计算机网络课程设计 ByJuston 20201217"  HorizontalAlignment="Left" Margin="94,602,0,0" VerticalAlignment="Top" FontSize="18" Width="461"/>
+
+
+
+
+    </Grid>
+</Window>
